@@ -7,9 +7,9 @@
 ## 1. About You
 
 - **Name:** Ondřej Macků
-- **Role/Title:** Founder
-- **What I do daily** (1-2 sentences): ___
-- **Timezone:** ___
+- **Role/Title:** Founder of Digital Agency UPSD DOWN
+- **What I do daily** (1-2 sentences): I lead a small group of social media content and ads specialists within my company, I do all the work connected with maintaining and growth ofmy company including finance, sales, project management, account management, leadership, process management and operations, knowledge management, quality control, etc.  
+- **Timezone:** CET
 
 ---
 
@@ -17,13 +17,13 @@
 
 Check every platform you actively use and fill in the specific tool:
 
-- [ ] Email (e.g., Gmail, Outlook): ___
-- [ ] Calendar (e.g., Google Calendar, Outlook Calendar): ___
-- [ ] Task Management (e.g., Asana, Linear, Todoist, Jira): ___
-- [ ] Chat/Messaging (e.g., Slack, Discord, Teams): ___
-- [ ] Notes/Documents (e.g., Notion, Obsidian, Google Docs): ___
-- [ ] Cloud Storage (e.g., Google Drive, Dropbox, OneDrive): ___
-- [ ] Code Hosting (e.g., GitHub, GitLab): ___
+- [x] Email (e.g., Gmail, Outlook): Gmail
+- [x] Calendar (e.g., Google Calendar, Outlook Calendar): Google Calendar
+- [x] Task Management (e.g., Asana, Linear, Todoist, Jira): Asana
+- [x] Chat/Messaging (e.g., Slack, Discord, Teams): WhatsApp, Messenger, Slack
+- [x] Notes/Documents (e.g., Notion, Obsidian, Google Docs): Obsidian
+- [x] Cloud Storage (e.g., Google Drive, Dropbox, OneDrive): Google Drive
+- [x] Code Hosting (e.g., GitHub, GitLab): GitHub
 - [ ] Community (e.g., Circle, Discord server, Mighty Networks): ___
 - [ ] CRM (e.g., HubSpot, Salesforce, Pipedrive): ___
 - [ ] Other: ___
@@ -56,7 +56,7 @@ Examples:
 How bold should your agent be? Pick one:
 
 - [ ] **Observer** - Notify only, never take action
-- [ ] **Advisor** - Draft things for my review, but never send or post
+- [x] **Advisor** - Draft things for my review, but never send or post
 - [ ] **Assistant** - Act on low-risk items (log notes, organize files), ask for high-risk
 - [ ] **Partner** - Act autonomously on most things, ask only for irreversible actions
 
@@ -66,11 +66,11 @@ How bold should your agent be? Pick one:
 
 What should your agent NEVER do without explicit permission?
 
-- [ ] Send emails or messages on my behalf
-- [ ] Post to social media
-- [ ] Modify files outside the memory vault
+- [x] Send emails or messages on my behalf
+- [x] Post to social media
+- [x] Modify files outside the memory vault
 - [ ] Access financial data or make purchases
-- [ ] Delete anything
+- [x] Delete anything
 - [ ] Other: ___
 
 ---
@@ -79,22 +79,22 @@ What should your agent NEVER do without explicit permission?
 
 What types of knowledge matter most to you? Check all that apply and add your own:
 
-- [ ] Meeting notes and decisions
-- [ ] Project status and progress
-- [ ] Client/customer information
-- [ ] Research and learning notes
-- [ ] Personal goals and habits
+- [x] Meeting notes and decisions
+- [x] Project status and progress
+- [x] Client/customer information
+- [x] Research and learning notes
+- [x] Personal goals and habits
 - [ ] Content ideas and drafts
-- [ ] Team context (who does what, preferences, timezones)
+- [x] Team context (who does what, preferences, timezones)
 - [ ] Other: ___
 
 ---
 
 ## 7. Infrastructure
 
-- **Operating System:** [ ] Windows [ ] macOS [ ] Linux
-- **Deployment:** [ ] Local only [ ] Local + cloud server (VPS)
-- **Existing tools I already have set up:** ___
+- **Operating System:** [x] Windows [ ] macOS [ ] Linux
+- **Deployment:** [ ] Local only [x] Local + cloud server (VPS)
+- **Existing tools I already have set up:** I already use all of the tools listed above except Obsidian, which I am about to start using as a Notes and Documents Hub for my company and I just had opened it for the first time. 
 
   (e.g., "I already use Obsidian", "I have a DigitalOcean droplet", "I'm comfortable with the terminal")
 
@@ -104,9 +104,9 @@ What types of knowledge matter most to you? Check all that apply and add your ow
 
 Rank your top 3 integrations to build first (from your answers in Section 2):
 
-1. ___
-2. ___
-3. ___
+1. Obsidian
+2. Google Drive
+3. GitHub
 
 ---
 
