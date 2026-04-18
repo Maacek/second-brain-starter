@@ -6,8 +6,8 @@
 
 ## 1. About You
 
-- **Name:** ___
-- **Role/Title:** ___
+- **Name:** Ondřej Macků
+- **Role/Title:** Founder
 - **What I do daily** (1-2 sentences): ___
 - **Timezone:** ___
 
